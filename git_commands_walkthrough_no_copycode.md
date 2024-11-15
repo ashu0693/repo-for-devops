@@ -49,4 +49,5 @@ git status
 git log
 git checkout master
 git log
+git remote
 ```
